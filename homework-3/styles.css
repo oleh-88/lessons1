@@ -1,0 +1,63 @@
+#formcontact {
+    border: 1px solid black;
+    padding: 25px 250px;
+    margin-top: 50px;
+}
+
+#formcontact h2 {
+    text-decoration-line: underline;
+    text-decoration-color: blueviolet;
+}
+
+#worktime {
+    text-align: center;
+}
+
+#contacts {
+    text-align: center;
+}
+
+#card {
+    border: solid 1px cornflowerblue;
+    text-align: center;
+    padding: 50px 5px;
+    background-image: url(./images/laptop-bg.jpg);
+    border-radius: 25px;
+    background-size: contain;
+    width: 300px;
+    margin-top: 25px;
+}
+
+#card details {
+    text-align: left;
+    margin-top: 25px;
+}
+
+#card img {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+#description {
+    border: 1px dotted black;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-image: url(./images/background.webp);
+}
+
+#description span {
+    color: green;
+}
+
+h1 {
+    color: red;
+
+}
